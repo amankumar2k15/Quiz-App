@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Who is the father of HTML?",
+        "answer_1": "Rasmus Lerdorf",
+        "answer_2": "Tim Berners-Lee",
+        "answer_3": "Brendan Eich",
+        "answer_4": "Sergey Brin",
+        "right_answer": "Tim Berners-Lee"
+
+    },
+    {
+        "title": "HTML stands for __________?",
+        "answer_1": "HyperText Markup Language",
+        "answer_2": "HyperText Machine Language",
+        "answer_3": "HyperText Marking Language",
+        "answer_4": "HighText Marking Language",
+        "right_answer": "HyperText Markup Language"
+
+    },
+    {
+        "title": "What is the correct syntax of doctype in HTML5?",
+        "answer_1": " </doctype html>",
+        "answer_2": "<doctype html>",
+        "answer_3": "<doctype html!>",
+        "answer_4": " <!doctype html>",
+        "right_answer": " <!doctype html>"
+
+    },
+    {
+        "title": "In which part of the HTML metadata is contained?",
+        "answer_1": "head tag",
+        "answer_2": "title tag",
+        "answer_3": "html tag",
+        "answer_4": "body tag",
+        "right_answer": "head tag"
+
+    },
+    {
+        "title": "Which of the following is not a HTML5 tag?",
+        "answer_1": "<track>",
+        "answer_2": "<video>",
+        "answer_3": "<slider>",
+        "answer_4": "<source>",
+        "right_answer": "<slider>"
+
+    },
+    {
+        "title": "How do we write comments in HTML?",
+        "answer_1": "</……>",
+        "answer_2": "<!……>",
+        "answer_3": "</……/>",
+        "answer_4": "<……!>",
+        "right_answer": "<!……>"
+
+    },
+    {
+        "title": "Which HTML element is used for abbreviation or acronym?",
+        "answer_1": "<abbr>",
+        "answer_2": "<em>",
+        "answer_3": "<i>",
+        "answer_4": "<blockquote>",
+        "right_answer": "<em>"
+
+    },
+    {
+        "title": "Which of the following HTML tag is used to add a row in a table?",
+        "answer_1": "<th>",
+        "answer_2": "<td>",
+        "answer_3": "<tr>",
+        "answer_4": "<tt>",
+        "right_answer": "<tr>"
+
+    }
+]
